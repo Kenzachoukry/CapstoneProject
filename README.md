@@ -1,2 +1,1 @@
-# CapstoneProject
-Salary Prediction
+
